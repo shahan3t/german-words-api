@@ -1,0 +1,467 @@
+{
+    "ganz": {
+        "Translation": "whole, entire",
+        "Example": "Ich habe eine ganze Pizza gegessen",
+        "Example translation": "I ate an entire pizza"
+    },
+    "groß": {
+        "Translation": "big, large",
+        "Example": "Berlin ist eine große Stadt",
+        "Example translation": "Berlin is a big city"
+    },
+    "gut": {
+        "Translation": "good",
+        "Example": "Das Eis schmeckt gut",
+        "Example translation": "The ice cream tastes good"
+    },
+    "neu": {
+        "Translation": "new",
+        "Example": "Ruben braucht neue Schuhe",
+        "Example translation": "Ruben needs new shoes"
+    },
+    "erste": {
+        "Translation": "first",
+        "Example": "Der erste Zug fährt um sechs Uhr ab",
+        "Example translation": "The first train leaves at six o'clock"
+    },
+    "lang": {
+        "Translation": "long",
+        "Example": "Heute war ein langer Tag",
+        "Example translation": "Today was a long day"
+    },
+    "klein": {
+        "Translation": "small, little",
+        "Example": "Ein kleines Auto passt in jede Parklücke",
+        "Example translation": "A small car fits into every parking space"
+    },
+    "alt": {
+        "Translation": "old",
+        "Example": "Neben dem Haus steht ein alter Baum",
+        "Example translation": "Next to the house is an old tree"
+    },
+    "hoch": {
+        "Translation": "high, tall",
+        "Example": "Der Brocken ist ein hoher Berg",
+        "Example translation": "The Brocken is a high mountain"
+    },
+    "einfach": {
+        "Translation": "simple, easy",
+        "Example": "Pudding kochen ist eine einfache Aufgabe",
+        "Example translation": "Pudding cooking is a simple task"
+    },
+    "letzte": {
+        "Translation": "last",
+        "Example": "Pauline kam als letzte ins Ziel",
+        "Example translation": "Pauline was the last one to finish"
+    },
+    "gleich": {
+        "Translation": "same",
+        "Example": "Da haben die Eltern die gleiche Meinung",
+        "Example translation": "The parents have the same opinion"
+    },
+    "möglich": {
+        "Translation": "possible",
+        "Example": "Ist es möglich, später zu bezahlen?",
+        "Example translation": "Is it possible to pay later?"
+    },
+    "eigen": {
+        "Translation": "own",
+        "Example": "Auch Kinder dürfen ihre eigene Meinung haben",
+        "Example translation": "Even children can have their own opinion"
+    },
+    "schön": {
+        "Translation": "beautiful",
+        "Example": "Ein Buch ist ein schönes Geschenk",
+        "Example translation": "A book is a beautiful gift"
+    },
+    "spät": {
+        "Translation": "late",
+        "Example": "Es ist schon spät",
+        "Example translation": "It's getting late"
+    },
+    "wichtig": {
+        "Translation": "important",
+        "Example": "Eine wichtige Besprechung fällt heute aus",
+        "Example translation": "An important meeting has been cancelled today"
+    },
+    "weitere": {
+        "Translation": "additional, further",
+        "Example": "Gibt es noch weitere Fragen?",
+        "Example translation": "Are there any further questions?"
+    },
+    "genau": {
+        "Translation": "exactly",
+        "Example": "Wie spät ist es genau?",
+        "Example translation": "What time is it exactly?"
+    },
+    "jung": {
+        "Translation": "young",
+        "Example": "Da stand ein junger Mann vor der Tür",
+        "Example translation": "There was a young man at the door"
+    },
+    "kurz": {
+        "Translation": "short",
+        "Example": "Isabel hat kurze Haare",
+        "Example translation": "Isabel has short hair"
+    },
+    "stark": {
+        "Translation": "strong",
+        "Example": "Angela ist eine starke Frau",
+        "Example translation": "Angela is a strong woman"
+    },
+    "richtig": {
+        "Translation": "correct",
+        "Example": "Das richtige Antwort wusste niemand",
+        "Example translation": "Nobody knew the right answer"
+    },
+    "verschieden": {
+        "Translation": "different, diverse",
+        "Example": "Ihre Töchter sind sehr verschieden",
+        "Example translation": "Her daughters are very different"
+    },
+    "bestimmt": {
+        "Translation": "specific, certain",
+        "Example": "Ich suche ein bestimmtes Buch",
+        "Example translation": "I'm looking for a certain book"
+    },
+    "besser": {
+        "Translation": "better",
+        "Example": "Sie kann besser schwimmen als wir",
+        "Example translation": "She can swim better than we can"
+    },
+    "schnell": {
+        "Translation": "fast",
+        "Example": "Ein schnelles Auto verbraucht auch meist viel Benzin",
+        "Example translation": "A fast car also usually uses a lot of petrol"
+    },
+    "sicher": {
+        "Translation": "safe, secure",
+        "Example": "Diese Methode ist absolut sicher",
+        "Example translation": "This method is absolutely safe"
+    },
+    "nächste": {
+        "Translation": "next",
+        "Example": "Nächste Woche ist Ostern",
+        "Example translation": "Next week is Easter"
+    },
+    "politisch": {
+        "Translation": "political",
+        "Example": "Markus ist politisch sehr aktiv",
+        "Example translation": "Markus is politically very active"
+    },
+    "klar": {
+        "Translation": "clear",
+        "Example": "Boris hat klare Vorstellungen von seinem Traumberuf",
+        "Example translation": "Boris clearly knows what his dream job is"
+    },
+    "schwer": {
+        "Translation": "difficult, heavy",
+        "Example": "Esel können schwere Lasten tragen",
+        "Example translation": "Donkeys can carry heavy loads"
+    },
+    "einzeln": {
+        "Translation": "individual",
+        "Example": "Die Geburtstagsgäste kamen alle einzeln",
+        "Example translation": "The birthday guests all came one at a time"
+    },
+    "bekannt": {
+        "Translation": "well-known",
+        "Example": "Heike Makatsch ist eine bekannte deutsche Schauspielerin",
+        "Example translation": "Heike Makatsch is a well-known German actress"
+    },
+    "leicht": {
+        "Translation": "light, easy",
+        "Example": "Kinder erziehen ist keine leichte Aufgabe",
+        "Example translation": "Raising children is not an easy task"
+    },
+    "rund": {
+        "Translation": "round",
+        "Example": "Das Rad ist nicht mehr hanz rund",
+        "Example translation": "The wheel is not round any more"
+    },
+    "frei": {
+        "Translation": "free",
+        "Example": "Der Platz neben mir ist noch frei",
+        "Example translation": "The place next to me is still free"
+    },
+    "früh": {
+        "Translation": "early",
+        "Example": "Sechs Uhr morgens? Das ist aber sehr früh!",
+        "Example translation": "Six o'clock in the morning? That's very early!"
+    },
+    "unterschiedlich": {
+        "Translation": "different, variable",
+        "Example": "Zum Bahnhof gelangt man mit unterschiedlichen Verkehrsmitteln",
+        "Example translation": "The train station can be reached by various means of transport"
+    },
+    "schlecht": {
+        "Translation": "bad",
+        "Example": "Die Menschen sind schlecht, alle denken nur an sich",
+        "Example translation": "People are bad, everyone thinks only about themselves"
+    },
+    "deutlich": {
+        "Translation": "clear",
+        "Example": "Kristin hat eine deutliche Aussprache",
+        "Example translation": "Kristin has a clear pronunciation"
+    },
+    "allgemein": {
+        "Translation": "general",
+        "Example": "Es ist allgemein bekannt, dass Paris in Frankreich liegt",
+        "Example translation": "It's well known that Paris is France"
+    },
+    "einzig": {
+        "Translation": "only, single",
+        "Example": "Gina ist das einzige Mädchen in der Klass",
+        "Example translation": "Gina is the only girl in the class"
+    },
+    "gemeinsam": {
+        "Translation": "common, mutual",
+        "Example": "Ein gemeinsamer Feind stärkt die Gruppe",
+        "Example translation": "A common enemy strengthens the group"
+    },
+    "nahe, nah": {
+        "Translation": "near, close",
+        "Example": "Weihnachten rückt immer näher",
+        "Example translation": "Christmas is getting closer and closer"
+    },
+    "voll": {
+        "Translation": "full",
+        "Example": "Die Flasche ist noch ganz voll",
+        "Example translation": "The bottle is still quite full"
+    },
+    "direkt": {
+        "Translation": "direct, straight",
+        "Example": "Wir gehen auf direktem Weg nach Hause",
+        "Example translation": "We're going straight home"
+    },
+    "international": {
+        "Translation": "international",
+        "Example": "Die Universität hat einen internationalen Anspruch",
+        "Example translation": "The university has an international claim"
+    },
+    "sozial": {
+        "Translation": "social",
+        "Example": "Bei Spendenaktionen wird gern an das soziale Gewissen der Spender appelliert",
+        "Example translation": "In fundraising campaigns, the social conscience of the donor is often appealed to"
+    },
+    "beste (r,s)": {
+        "Translation": "best",
+        "Example": "Meine Mutter macht den besten Currywurst der Welt",
+        "Example translation": "My mother makes the best currywurst in the world"
+    },
+    "rot": {
+        "Translation": "red",
+        "Example": "Rote Socken passen nicht zu blauen Schuhen",
+        "Example translation": "Red socks do not match blue shoes"
+    },
+    "offen": {
+        "Translation": "open",
+        "Example": "Die Flasche ist schon offen",
+        "Example translation": "The bottle is already open"
+    },
+    "meiste": {
+        "Translation": "most",
+        "Example": "Am meisten hat mir Richard gefallen",
+        "Example translation": "I liked Richard the most"
+    },
+    "besondere (r,s)": {
+        "Translation": "special",
+        "Example": "Barbara ist eine ganz besondere Frau",
+        "Example translation": "Barbara is a very special woman"
+    },
+    "öffentlich": {
+        "Translation": "public",
+        "Example": "Die Sitzung der Parlaments ist öffentlich",
+        "Example translation": "The sitting of Parliament shall be open to the public"
+    },
+    "halb": {
+        "Translation": "half",
+        "Example": "Wir gehen halb eins essen",
+        "Example translation": "We're going to eat half past 12"
+    },
+    "wahrscheinlich": {
+        "Translation": "porbably",
+        "Example": "Es wird wahrscheinlich eine Stunde dauern",
+        "Example translation": "It'll probably take an hour"
+    },
+    "wesentlich": {
+        "Translation": "essential, fundamental",
+        "Example": "Das ist ein ganz wesentlicher Unterschied",
+        "Example translation": "That is a very important difference"
+    },
+    "ähnlich": {
+        "Translation": "similar",
+        "Example": "Max sieht seinem Bruder ähnlich",
+        "Example translation": "Max looks like his brother"
+    },
+    "häufig": {
+        "Translation": "frequent",
+        "Example": "Hier werden häufige Wörter gesammelt",
+        "Example translation": "Common words are collected here"
+    },
+    "schwarz": {
+        "Translation": "black",
+        "Example": "Dort stand es schwarz auf weiß",
+        "Example translation": "There it was in black and white"
+    },
+    "völlig": {
+        "Translation": "complete",
+        "Example": "Das ist völlig Überflüssig",
+        "Example translation": "It's completely unnecessary"
+    },
+    "gering": {
+        "Translation": "low, small",
+        "Example": "Das ist ein geringes Problem",
+        "Example translation": "It's a minor problem"
+    },
+    "schwierig": {
+        "Translation": "difficult",
+        "Example": "Bowling ist schwieriger, als ich dachte",
+        "Example translation": "Bowling's harder than I thought"
+    },
+    "praktisch": {
+        "Translation": "practical",
+        "Example": "Ich finde kein praktisches Beispiel",
+        "Example translation": "I can't find a practical example"
+    },
+    "personlich": {
+        "Translation": "personal",
+        "Example": "Ich persönlich fand den Film gar nicht so schlecht",
+        "Example translation": "Personally, I didn't think the movie was so bad"
+    },
+    "modern": {
+        "Translation": "modern",
+        "Example": "Moderne Autos haben Airbags serienmäßig",
+        "Example translation": "Modern cars have airbags as standard"
+    },
+    "tief": {
+        "Translation": "deep",
+        "Example": "DasBaby schläft so tief, dass es nichts hört",
+        "Example translation": "The baby sleeps so soundly that it hears nothing"
+    },
+    "tatsächlich": {
+        "Translation": "real, actual",
+        "Example": "Er hat doch tatsächlich geheiratet!",
+        "Example translation": "He actually got married!"
+    },
+    "zusätzlich": {
+        "Translation": "additional",
+        "Example": "Zusätzlich zu seinem Studium absolvierte er noch drei freiwillige Praktika",
+        "Example translation": "In addition to his studies, he completed three voluntary internships"
+    },
+    "wirtschaftlich": {
+        "Translation": "economic, financial",
+        "Example": "China hat viele wirtschaftliche Probleme",
+        "Example translation": "China has many economic problems"
+    },
+    "interessant": {
+        "Translation": "interesting",
+        "Example": "Interessante Diplomarbeiten sind selten",
+        "Example translation": "Interesting diploma theses are rare"
+    },
+    "relativ": {
+        "Translation": "relative",
+        "Example": "Meine Wohnung ist relativ klein",
+        "Example translation": "My apartment is relatively small"
+    },
+    "gleichzeitig": {
+        "Translation": "simultaneous",
+        "Example": "Sie sprangen gleichzeitig von der Brücke",
+        "Example translation": "They jumped off the bridge at the same time"
+    },
+    "grün": {
+        "Translation": "green",
+        "Example": "Die Bäume werden grün",
+        "Example translation": "The trees turn green"
+    },
+    "weiß": {
+        "Translation": "white",
+        "Example": "Schneewittchens Haut war weiß wie Schnee",
+        "Example translation": "Snow White's skin was white as snow"
+    },
+    "gesamt": {
+        "Translation": "whole, entire",
+        "Example": "Die gesamte Universität musste evakuiert werden",
+        "Example translation": "The entire university had to be evacuated"
+    },
+    "speziell": {
+        "Translation": "special, specific",
+        "Example": "Das ist eine sehr spezielle Frage",
+        "Example translation": "That's a very specific question"
+    },
+    "entscheidend": {
+        "Translation": "decisive",
+        "Example": "Der entscheidende Vorteil für Investition lag in den Steuervergünstigung",
+        "Example translation": "The decisive advantage of investment lay in the tax concession"
+    },
+    "eng": {
+        "Translation": "narrow, close",
+        "Example": "Er ist ein enger Verwandter",
+        "Example translation": "He's a close relative"
+    },
+    "technisch": {
+        "Translation": "technical",
+        "Example": "Das ist ein technisches Problem",
+        "Example translation": "It's a technical problem"
+    },
+    "langsam": {
+        "Translation": "slow",
+        "Example": "Faultiere bewegen sich sehr langsam",
+        "Example translation": "Sloths move very slowly"
+    },
+    "ständig": {
+        "Translation": "constant",
+        "Example": "Ich denke ständig an dich",
+        "Example translation": "I'm always thinking about you"
+    },
+    "notwendig": {
+        "Translation": "necessary",
+        "Example": "Das ist jetzt nicht mehr notwendig",
+        "Example translation": "This is no longer necessary"
+    },
+    "rein": {
+        "Translation": "pure, clean",
+        "Example": "Das ist ja reines Wasser!",
+        "Example translation": "That's pure water!"
+    },
+    "wissenschaftlich": {
+        "Translation": "scientific, scholarly",
+        "Example": "Wissenschaftliche Aufsätze sind oft schwer zu lesen",
+        "Example translation": "Scientific essays are often difficult to read"
+    },
+    "falsch": {
+        "Translation": "false, wrong",
+        "Example": "Ich habe eine falsche Adresse angegeben",
+        "Example translation": "I gave a wrong address"
+    },
+    "fremd": {
+        "Translation": "foreign",
+        "Example": "Ich will eine fremde Sprache lernen",
+        "Example translation": "I want to learn a foreign language"
+    },
+    "selten": {
+        "Translation": "rare",
+        "Example": "Jens schaut selten fern",
+        "Example translation": "Jens rarely watches TV"
+    },
+    "normal": {
+        "Translation": "normal",
+        "Example": "Heute ist ein ganz normaler Tag",
+        "Example translation": "It's just a normal day today"
+    },
+    "wahr": {
+        "Translation": "true",
+        "Example": "Das kann doch nicht wahr sein",
+        "Example translation": "This can't be true"
+    },
+    "privat": {
+        "Translation": "private",
+        "Example": "Das ist meine private E-Mail Adresse",
+        "Example translation": "That's my private e-mail address"
+    },
+    "tot": {
+        "Translation": "dead",
+        "Example": "Wagner ist seit 121 Jahren tot",
+        "Example translation": "Wagner has been dead for 121 years"
+    }
+}

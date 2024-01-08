@@ -1,0 +1,477 @@
+{
+    "das Jahr": {
+        "Translation": "year",
+        "Example": "Das Jahr geht zu Ende",
+        "Example translation": "The year is coming to an end"
+    },
+    "das Mal": {
+        "Translation": "time",
+        "Example": "Helmut ist schon zum zweiten Mal in Schweden",
+        "Example translation": "Helmut is in Sweden already for the second time"
+    },
+    "das Beispiel": {
+        "Translation": "example",
+        "Example": "Ich könnte zum Beispiel früher kommen",
+        "Example translation": "I could come earlier, for example."
+    },
+    "die Zeit": {
+        "Translation": "time",
+        "Example": "Ich habe keine Zeit",
+        "Example translation": "I don't have time"
+    },
+    "die Frau": {
+        "Translation": "woman, wife, Mrs",
+        "Example": "Im Komitee waren nur vier Frauen",
+        "Example translation": "There were only 4 women on the committee"
+    },
+    "der Mensch": {
+        "Translation": "human being, man",
+        "Example": "Stammt der Mensch vom Affen ab?",
+        "Example translation": "Is human being descended from apes?"
+    },
+    "das Kind": {
+        "Translation": "child",
+        "Example": "Unser Kind geht schon in den Kindergarten",
+        "Example translation": "Our child already goes to kindergarten"
+    },
+    "der Tag": {
+        "Translation": "day",
+        "Example": "Sonntag ist der schönste Tag der Woche",
+        "Example translation": "Sunday is the best day of the week"
+    },
+    "der Mann": {
+        "Translation": "man",
+        "Example": "Siehst du den Mann dort?",
+        "Example translation": "Do you see that man there?"
+    },
+    "das Land": {
+        "Translation": "land, country, state",
+        "Example": "Dänemark ist ein kleines Land in Europe",
+        "Example translation": "Denmark is a small country in Europe"
+    },
+    "die Frage": {
+        "Translation": "question",
+        "Example": "Antworte mir bitte auf meine Frage",
+        "Example translation": "Please answer my question"
+    },
+    "das Haus": {
+        "Translation": "House",
+        "Example": "Mein Bruder baut sich ein Haus",
+        "Example translation": "My brother's building himself a house."
+    },
+    "der Fall": {
+        "Translation": "fall, case",
+        "Example": "Ich habe so einen Fall noch nicht erlebt",
+        "Example translation": "I've never seen a case like this before."
+    },
+    "die Leute": {
+        "Translation": "people",
+        "Example": "Viele Leute beobachten den Unfall, aber keiner half",
+        "Example translation": "A lot of people were watching the accident, but nobody helped."
+    },
+    "die Arbeit": {
+        "Translation": "work",
+        "Example": "Es wartet viel Arbeit auf uns",
+        "Example translation": "A lot of work awaits us"
+    },
+    "das Prozent": {
+        "Translation": "percent",
+        "Example": "Diese Prüfung zählt zehn Prozent der Gesamtnote",
+        "Example translation": "This exam counts for ten percent of the overall grade."
+    },
+    "das Hand": {
+        "Translation": "hand",
+        "Example": "Ich habe mir die linke Hand gebrochen",
+        "Example translation": "I broke my left hand"
+    },
+    "die Stadt": {
+        "Translation": "city, town",
+        "Example": "Köln ist eine Stadt in Deutschland",
+        "Example translation": "Cologne is a city in Germany"
+    },
+    "der Teil": {
+        "Translation": "part",
+        "Example": "Im ersten Teil des Buches werden die Charakter vorgestellt",
+        "Example translation": "The characters are introduced in the first part of the book"
+    },
+    "das Problem": {
+        "Translation": "problem",
+        "Example": "Wir werden das Problem lösen",
+        "Example translation": "We will solve the problem"
+    },
+    "die Welt": {
+        "Translation": "world",
+        "Example": "Eine Reise um die Welt is teuer",
+        "Example translation": "A trip around the world is expensive"
+    },
+    "die Recht": {
+        "Translation": "right, law",
+        "Example": "Nach europäischem Recht ist das verboten",
+        "Example translation": "According to European law this is forbidden."
+    },
+    "das Ende": {
+        "Translation": "end",
+        "Example": "Das Ende des Films war traurig",
+        "Example translation": "The end of the movie was sad"
+    },
+    "die Schule": {
+        "Translation": "school",
+        "Example": "Sie geht noch zur Schule",
+        "Example translation": "She still goes to school"
+    },
+    "die Woche": {
+        "Translation": "week",
+        "Example": "In der nächsten Woche sind Prüfungen",
+        "Example translation": "Next week, exams are scheduled"
+    },
+    "der Vater": {
+        "Translation": "father",
+        "Example": "der Vater von Andrea ist gerade vierzig geworden",
+        "Example translation": "Andreas father already turned 40"
+    },
+    "die Seite": {
+        "Translation": "side, page",
+        "Example": "Das Buch hat zweihundert Seiten.",
+        "Example translation": "The book has 200 pages"
+    },
+    "das Leben": {
+        "Translation": "life",
+        "Example": "Sie versucht, den Tieren das Leben zu retten",
+        "Example translation": "She's trying to save the lives of the animals."
+    },
+    "die Mutter": {
+        "Translation": "mother",
+        "Example": "Meine Mutter ist Chefin eines Konzerns",
+        "Example translation": "My mother is the head of a group of companies."
+    },
+    "der Grund": {
+        "Translation": "reason, basis",
+        "Example": "Du hast keinen Grund, böse zu sein",
+        "Example translation": "You have no reason to be angry."
+    },
+    "das Auge": {
+        "Translation": "eye",
+        "Example": "Max hat sehr schöne Auge",
+        "Example translation": "Max has very beautiful eyes"
+    },
+    "das Wort": {
+        "Translation": "word",
+        "Example": "Ich habe das letzte Word nicht verstanden",
+        "Example translation": "I didn't get the last word"
+    },
+    "der Geld": {
+        "Translation": "money",
+        "Example": "Ich habe kein Geld",
+        "Example translation": "I don't have money"
+    },
+    "die Sache": {
+        "Translation": "thing, matter",
+        "Example": "Die Sache hat sich erledigt",
+        "Example translation": "The matter has been settled."
+    },
+    "die Art": {
+        "Translation": "type, kind",
+        "Example": "Löwe sind eine Art Katzen",
+        "Example translation": "Lions are a kind of cats."
+    },
+    "der Bereich": {
+        "Translation": "area, region",
+        "Example": "In diesem Bereich ist Frau Bitter expertin",
+        "Example translation": "Ms Bitter is an expert in this area."
+    },
+    "der Weg": {
+        "Translation": "path, way",
+        "Example": "Der Weg biegt später nach links ab",
+        "Example translation": "The road turns left later"
+    },
+    "die Stunde": {
+        "Translation": "Hour",
+        "Example": "Der Zug hatte zwei Stunden Verspätung",
+        "Example translation": "The train ran 2 hours late"
+    },
+    "der Name": {
+        "Translation": "name",
+        "Example": "Mein Name is Charlotte",
+        "Example translation": "My name is Charlotte"
+    },
+    "die Geschichte": {
+        "Translation": "history, story",
+        "Example": "Abends liest die Oma den Kindern Geschichten vor",
+        "Example translation": "In the evening, grandma reads stories to the children."
+    },
+    "die Gesellschaft": {
+        "Translation": "society, company",
+        "Example": "Eine multikulturelle Gesellschaft muss tolerant sein",
+        "Example translation": "A multicultural society must be tolerant"
+    },
+    "der Kopf": {
+        "Translation": "head",
+        "Example": "Mir tut der Kopf weh",
+        "Example translation": "My head hurts"
+    },
+    "das Paar": {
+        "Translation": "pair, couple",
+        "Example": "Agnes hat zwei Paar schöne Schuhe gekauft",
+        "Example translation": "Agnes bought two pairs of beautiful shoes"
+    },
+    "die Möglichkeit": {
+        "Translation": "possibility",
+        "Example": "Nach der Konferenz haben Sie die Möglichkeit, essen zu gehen",
+        "Example translation": "After the conference, you will have the opportunity to eat out"
+    },
+    "das Unternehmen": {
+        "Translation": "enterprise, company",
+        "Example": "Das Unternehmen ging in Konkurs",
+        "Example translation": "The company went bankrupt."
+    },
+    "das Bild": {
+        "Translation": "picture",
+        "Example": "Renates Büro hängt voller Bilder",
+        "Example translation": "Renate's office is full of pictures."
+    },
+    "das Buch": {
+        "Translation": "book",
+        "Example": "Friedrich hat das Buch schon zweimal gelesen",
+        "Example translation": "Friedrich has read this book already two times"
+    },
+    "das Wasser": {
+        "Translation": "water",
+        "Example": "Das Wasser ist zu kalt zum Baden",
+        "Example translation": "The water is too cold for swimming"
+    },
+    "die Stelle": {
+        "Translation": "place",
+        "Example": "Wir treffen uns an der gleichen Stelle wie letzte Woche",
+        "Example translation": "We'll meet at the same place as last week."
+    },
+    "der Form": {
+        "Translation": "form, shape",
+        "Example": "Das Lindenblatt hat die Form eines Herzens",
+        "Example translation": "The lime leaf has the shape of a heart"
+    },
+    "die Entwicklung": {
+        "Translation": "development",
+        "Example": "Die Firma hat eine eigene Abteilung für Forschung und Entwicklung",
+        "Example translation": "The company has its own department for research and development."
+    },
+    "der Monat": {
+        "Translation": "month",
+        "Example": "Mit sechs Monaten bekommen Babys die ersten Zähne",
+        "Example translation": "Babies get their first teeth when they're six months old"
+    },
+    "die Familie": {
+        "Translation": "family",
+        "Example": "Die ganze Familie wohnt in einem Dorf zusammen",
+        "Example translation": "The whole family lives together in one village."
+    },
+    "der Morgen": {
+        "Translation": "morning",
+        "Example": "Am Morgen scheint die Sonne ins Schlafzimmer",
+        "Example translation": "In the morning the sun shines into the bedroom"
+    },
+    "der Abend": {
+        "Translation": "evening",
+        "Example": "Im Winter wird es Abends früh dunkel",
+        "Example translation": "In winter it gets dark early in the evening"
+    },
+    "die Aufgabe": {
+        "Translation": "task, assignment, job",
+        "Example": "Lösen Sie bitte die folgenden Aufgaben",
+        "Example translation": "Please solve the following tasks"
+    },
+    "die Universität, Uni": {
+        "Translation": "university",
+        "Example": "Die Universität wird 60 jahre alt",
+        "Example translation": "University turns 60 years old"
+    },
+    "der Sinn": {
+        "Translation": "sense, meaning",
+        "Example": "Mann soll das Leben mit allen Sinnen genießen",
+        "Example translation": "Man shall enjoy life with all his senses"
+    },
+    "der Staat": {
+        "Translation": "state",
+        "Example": "Die Steuern bekommt der Staat",
+        "Example translation": "The state gets the taxes"
+    },
+    "das Ziel": {
+        "Translation": "destination, goal",
+        "Example": "Hamburg war das Ziel seiner Reise",
+        "Example translation": "Hamburg was the destination of his journey"
+    },
+    "der Freund": {
+        "Translation": "friend, boyfriend",
+        "Example": "Franziska wohnt mit ihrem Freund zusammen",
+        "Example translation": "Franziska lives with her boyfriend"
+    },
+    "das Thema": {
+        "Translation": "subject, topic, theme",
+        "Example": "Ich würde gern das Thema wechseln",
+        "Example translation": "I'd like to change the subject."
+    },
+    "die Person": {
+        "Translation": "person",
+        "Example": "Dieser Tisch ist ab 20 Uhr für acht Personen reserviert",
+        "Example translation": "This table is reserved from 20 o'clock for eight persons."
+    },
+    "die Nacht": {
+        "Translation": "night",
+        "Example": "Sie haben die ganze Nacht getanzt",
+        "Example translation": "They've been dancing all night."
+    },
+    "der Ding": {
+        "Translation": "thing",
+        "Example": "Gib mr mal das Ding da!",
+        "Example translation": "Give me that thing!"
+    },
+    "der Raum": {
+        "Translation": "room, space",
+        "Example": "Das Wohnzimmer ist der größte Raum in der Wohnung",
+        "Example translation": "The living room is the largest room in the apartment"
+    },
+    "der Blick": {
+        "Translation": "view, look, glance",
+        "Example": "Von der Turmspitze hat man einen schönen Blick über die ganze Stadt",
+        "Example translation": "From the top of the tower you have a beautiful view over the whole city."
+    },
+    "der Platz": {
+        "Translation": "place, room, square",
+        "Example": "Ich habe nicht genug Platz",
+        "Example translation": "I don't have enough room"
+    },
+    "die Zahl": {
+        "Translation": "number",
+        "Example": "Eine große Zahl von Jugendlichen raucht",
+        "Example translation": "A large number of young people smoke"
+    },
+    "das System": {
+        "Translation": "system",
+        "Example": "Neben der Demokratie gibt es noch andere politische Systeme",
+        "Example translation": "There are other political systems besides democracy"
+    },
+    "die Uhr": {
+        "Translation": "hour, watch",
+        "Example": "Es ist genau zehn Uhr",
+        "Example translation": "It's ten o'clock exactly."
+    },
+    "die Eltern": {
+        "Translation": "parents",
+        "Example": "In den Ferien fahren wir mit den Eltern an die Ostsee",
+        "Example translation": "During the holidays we will go with our parents to the Baltic Sea"
+    },
+    "die Straße": {
+        "Translation": "street",
+        "Example": "Die Straße wird neu gebaut",
+        "Example translation": "The road is newly built"
+    },
+    "die Minute": {
+        "Translation": "minute",
+        "Example": "Der Kuchen muss zwanzig Minuten backen",
+        "Example translation": "The cake must bake for twenty minutes."
+    },
+    "die Gruppe": {
+        "Translation": "group",
+        "Example": "Zu den Workshops treffen wir uns in kleinen Gruppen",
+        "Example translation": "For the workshops we gather in small groups"
+    },
+    "das Wert": {
+        "Translation": "value",
+        "Example": "Die Aktie hat an Wert verloren",
+        "Example translation": "The share price has lost value"
+    },
+    "die Gesicht": {
+        "Translation": "face",
+        "Example": "Sie hat ein rundes, immer freundliches Gesicht",
+        "Example translation": "She has a round, always friendly face."
+    },
+    "die Sprache": {
+        "Translation": "language",
+        "Example": "Die deutsche Sprache hat den Ruf, schwierig zu sein",
+        "Example translation": "The German language has the reputation of being difficult."
+    },
+    "der Anfang": {
+        "Translation": "beginning",
+        "Example": "Am Anfang war das Wort",
+        "Example translation": "In the beginning was the word"
+    },
+    "der Ort": {
+        "Translation": "place, town, location",
+        "Example": "Bad Harzburg ist ein kleiner Ort im Harz",
+        "Example translation": "Bad Harzburg is a small town in the Harz Mountains"
+    },
+    "der Moment": {
+        "Translation": "moment",
+        "Example": "Warte noch einen Moment!",
+        "Example translation": "Wait a minute!"
+    },
+    "die Folge": {
+        "Translation": "result, consequence",
+        "Example": "Die Folge davon war, dass er arbeitslos wurde",
+        "Example translation": "The result was that he lost his job"
+    },
+    "das Interesse": {
+        "Translation": "interest",
+        "Example": "Sind Studiengebühren im Interesse der Studenten?",
+        "Example translation": "Are tuition fees in the interest of students?"
+    },
+    "die Rolle": {
+        "Translation": "role, roll",
+        "Example": "Gustav Gründgens überzeugte in der Rolle des Faust",
+        "Example translation": "Gustav Gründgens was convinced in the role of Faust"
+    },
+    "die Tür": {
+        "Translation": "door",
+        "Example": "Sein Name steht an die Tür",
+        "Example translation": "His name is on the door."
+    },
+    "der Schüler": {
+        "Translation": "student",
+        "Example": "Alle Schüler treffen sich donnerstags in der Aula",
+        "Example translation": "All students meet in the auditorium on Thursdays."
+    },
+    "die Bedeutung": {
+        "Translation": "meaning, significance",
+        "Example": "Was hat das für eine Bedeutung?",
+        "Example translation": "What does that mean?"
+    },
+    "der Text": {
+        "Translation": "text",
+        "Example": "Der Text ist zu Lang",
+        "Example translation": "The text is too long"
+    },
+    "das Ergebnis": {
+        "Translation": "result, outcome",
+        "Example": "Die Projektgruppe stellt ihre Ergebnisse vor",
+        "Example translation": "The project group presents its results"
+    },
+    "der Krieg": {
+        "Translation": "war",
+        "Example": "Die Soldaten ziehen in den Krieg",
+        "Example translation": "The soldiers go to war"
+    },
+    "die Weise": {
+        "Translation": "way, manner",
+        "Example": "Auf welche Weise lösen wir das Problem am schnellsten?",
+        "Example translation": "What is the quickest way to solve the problem?"
+    },
+    "die Regierung": {
+        "Translation": "rule, government",
+        "Example": "Die Regierung sitzt in Berlin",
+        "Example translation": "The government is in Berlin"
+    },
+    "der Stück": {
+        "Translation": "piece",
+        "Example": "Ich möchte noch ein Stück Kuchen",
+        "Example translation": "I'd like another piece of cake."
+    },
+    "die Wohnung": {
+        "Translation": "apartment, flat",
+        "Example": "Die Wohnung ist im dritten Stock",
+        "Example translation": "The apartment is on the third floor"
+    },
+    "das Gespräch": {
+        "Translation": "conversation",
+        "Example": "Ein vernünftiges Gespräch war nichts mehr möglich",
+        "Example translation": "A reasonable conversation was no longer possible"
+    }
+}

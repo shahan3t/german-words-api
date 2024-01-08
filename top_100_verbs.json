@@ -1,0 +1,477 @@
+{
+    "sagen": {
+        "Translation": "to say",
+        "Example": "Conny sagt ihrem Man die Wahrheit",
+        "Example translation": "Conny tells her husband the truth"
+    },
+    "machen": {
+        "Translation": "to make",
+        "Example": "Ich mache meine Hausaufgaben",
+        "Example translation": "I am doing my homework"
+    },
+    "geben": {
+        "Translation": "to give",
+        "Example": "Ich gebe dir das Buch",
+        "Example translation": "I am giving you the book"
+    },
+    "kommen": {
+        "Translation": "to come",
+        "Example": "Wir kommen morgen zu dir",
+        "Example translation": "We will come to you tomorrow"
+    },
+    "gehen": {
+        "Translation": "to go",
+        "Example": "Wir gehen ins Kino",
+        "Example translation": "We are going to the movies"
+    },
+    "wissen": {
+        "Translation": "to know",
+        "Example": "Woher weißt du das?",
+        "Example translation": "Where do you know this from?"
+    },
+    "sehen": {
+        "Translation": "to see",
+        "Example": "Mark sieht ohne Brille nichts",
+        "Example translation": "Mark sees nothing without his glasses"
+    },
+    "stehen": {
+        "Translation": "to stand,",
+        "Example": "Der Maler steht auf dem Balkon",
+        "Example translation": "The painter stands on the balcony"
+    },
+    "finden": {
+        "Translation": "to find",
+        "Example": "Wir finden keine Lösung",
+        "Example translation": "We are failing to find a solution"
+    },
+    "bleiben": {
+        "Translation": "to stay, remain",
+        "Example": "Du kannst bis morgen bleiben",
+        "Example translation": "You can stay till tomorrow"
+    },
+    "liegen": {
+        "Translation": "to lie",
+        "Example": "Der Kranke liegt im Bett",
+        "Example translation": "The patient lies in bed"
+    },
+    "heißen": {
+        "Translation": "to be called",
+        "Example": "Sie heißt Anja",
+        "Example translation": "Her name is Anja"
+    },
+    "denken": {
+        "Translation": "to think",
+        "Example": "Wir denken an dich",
+        "Example translation": "We think of you"
+    },
+    "nehmen": {
+        "Translation": "to take",
+        "Example": "Kannst du den Koffern nehmen?",
+        "Example translation": "Can you take the suitcase?"
+    },
+    "tun": {
+        "Translation": "to do",
+        "Example": "Wir tun nur unsere Pflicht",
+        "Example translation": "We're just doing our duty"
+    },
+    "glauben": {
+        "Translation": "to believe",
+        "Example": "Glaubst du uns?",
+        "Example translation": "Do you believe us?"
+    },
+    "halten": {
+        "Translation": "to hold",
+        "Example": "Er hält eine Blume in der Hand",
+        "Example translation": "He is holding a flower in his hand"
+    },
+    "nennen": {
+        "Translation": "to name, call",
+        "Example": "Sie nennen ihren Sohn Max",
+        "Example translation": "They will call their son Max"
+    },
+    "mögen": {
+        "Translation": "to like",
+        "Example": "Ich mag Äpfel",
+        "Example translation": "I like apples"
+    },
+    "zeigen": {
+        "Translation": "to show",
+        "Example": "Der Stadtführer zeigt den Touristen die Stadt",
+        "Example translation": "The city guide shows the tourists the city"
+    },
+    "führen": {
+        "Translation": "to lead",
+        "Example": "Die Straße führt ins nächste Dorf",
+        "Example translation": "The road leads to the next village"
+    },
+    "sprechen": {
+        "Translation": "to speak",
+        "Example": "Ich spreche mit dir",
+        "Example translation": "I am speaking with you"
+    },
+    "bringen": {
+        "Translation": "to bring",
+        "Example": "Er bringt seiner Freundin Blumen",
+        "Example translation": "He is bringing flower to his girlfriend"
+    },
+    "leben": {
+        "Translation": "to live",
+        "Example": "Tobi lebt in Berlin",
+        "Example translation": "Tobi lives in Berlin"
+    },
+    "fahren": {
+        "Translation": "to drive, ride, go",
+        "Example": "Jan fahrt gern Fahrrad",
+        "Example translation": "Jan likes to ride a bike"
+    },
+    "meinen": {
+        "Translation": "to think, have an opinion",
+        "Example": "Was meint ihr zu dieser Idee?",
+        "Example translation": "What do you think about this idea?"
+    },
+    "fragen": {
+        "Translation": "to ask",
+        "Example": "Max hat nach dir gefragt",
+        "Example translation": "Max asked for you"
+    },
+    "gelten": {
+        "Translation": "to be valid",
+        "Example": "Dieser Fahrplan gilt nicht mehr",
+        "Example translation": "This timetable is no longer valid"
+    },
+    "stellen": {
+        "Translation": "to place, set",
+        "Example": "Ich stelle den Teller auf den Tisch",
+        "Example translation": "I am putting a plat on the table"
+    },
+    "spielen": {
+        "Translation": "to play",
+        "Example": "Die Kinder spielen draußen",
+        "Example translation": "The children are playing outside"
+    },
+    "arbeiten": {
+        "Translation": "to work",
+        "Example": "Er arbeitet seit zwei Jahren in dieser Firma",
+        "Example translation": "He has been working in this company for two years"
+    },
+    "brauchen": {
+        "Translation": "to need",
+        "Example": "Brauchst du Hilfe?",
+        "Example translation": "Do you need help?"
+    },
+    "folgen": {
+        "Translation": "to follow",
+        "Example": "Ich folge deinem Rat",
+        "Example translation": "I follow your advice"
+    },
+    "lernen": {
+        "Translation": "to learn",
+        "Example": "Sie lernt Deutsch",
+        "Example translation": "She is learning German"
+    },
+    "bestehen": {
+        "Translation": "to exist",
+        "Example": "Die Firma besteht seit 2004",
+        "Example translation": "The company exists since 2004"
+    },
+    "verstehen": {
+        "Translation": "to understand",
+        "Example": "Jan versteht kein Englisch",
+        "Example translation": "Jan does not understand any English"
+    },
+    "setzen": {
+        "Translation": "to set, place, put",
+        "Example": "Wenn man die Daten zueinander in die Beziehung setzt, kommt man zu interessanten Ergebnissen",
+        "Example translation": "If you connect the data together, you get interesting results."
+    },
+    "bekommen": {
+        "Translation": "to get, receive",
+        "Example": "Wir bekomme selten Post",
+        "Example translation": "We rarely get mail"
+    },
+    "beginnen": {
+        "Translation": "to begin",
+        "Example": "Max beginnt im Herbst sein Studium",
+        "Example translation": "Max begins his studies in autumn"
+    },
+    "erzählen": {
+        "Translation": "to tell",
+        "Example": "Die Mutter erzählt ihren Kindern ein Märchen",
+        "Example translation": "The mother tells her children a fairytale"
+    },
+    "versuchen": {
+        "Translation": "to try, attempt",
+        "Example": "Ich versuche, die Prüfung dieses Mal zu bestehen",
+        "Example translation": "I will try to pass this exam this time."
+    },
+    "schreiben": {
+        "Translation": "to write",
+        "Example": "Romeo schreibt Julia einen Liebesbrief",
+        "Example translation": "Romeo is writing a love letter to Juliet"
+    },
+    "laufen": {
+        "Translation": "to run",
+        "Example": "Erwin läuft jeden Tag fünf Runden im Park",
+        "Example translation": "Erwin runs five laps in the park every day"
+    },
+    "erklären": {
+        "Translation": "to explain",
+        "Example": "Der Lehrer erklärt seinen Schülern eine chemische Formel",
+        "Example translation": "The teacher explains a chemical formula to the students"
+    },
+    "entsprechen": {
+        "Translation": "to correspond, match",
+        "Example": "Der Anzug entspricht nicht meinen Vorstellungen",
+        "Example translation": "The suit doesn't match my expectation."
+    },
+    "sitzen": {
+        "Translation": "to sit",
+        "Example": "Auf dem Sofa sitzt der Kater und putzt sich",
+        "Example translation": "The cat sits on the sofa and cleans itself"
+    },
+    "ziehen": {
+        "Translation": "to pull, move",
+        "Example": "Man muss an der Tür ziehen, um sie zu öffnen",
+        "Example translation": "You must pull the door to open it"
+    },
+    "scheinen": {
+        "Translation": "to shine, seem, appear",
+        "Example": "der Sonne scheint",
+        "Example translation": "The sun is shining"
+    },
+    "fallen": {
+        "Translation": "to fall",
+        "Example": "Lass die Vase bitte nicht fallen!",
+        "Example translation": "Please don't let the vase fall!"
+    },
+    "gehören": {
+        "Translation": "to belong",
+        "Example": "der Koffer gehört mir",
+        "Example translation": "The suitcase belongs to me"
+    },
+    "entstehen": {
+        "Translation": "to originate, develop",
+        "Example": "Wirbelstürme entstehen über dem Meer",
+        "Example translation": "Hurricanes form over the sea"
+    },
+    "erhalten": {
+        "Translation": "to receive",
+        "Example": "Den Brief habe ich am Mittwoch erhalten",
+        "Example translation": "I received the letter on Wednesday"
+    },
+    "treffen": {
+        "Translation": "to meet",
+        "Example": "Wir treffen uns morgen Mittag auf dem Markt",
+        "Example translation": "We will meet each other tomorrow noon at the market."
+    },
+    "suchen": {
+        "Translation": "to search, look for",
+        "Example": "Ich habe meinen Sonnenbrille stundenlang gesucht",
+        "Example translation": "I have searched for my sunglasses for hours"
+    },
+    "legen": {
+        "Translation": "to lay, put",
+        "Example": "Die Mutter legt das Baby ins Bett",
+        "Example translation": "The mother puts the baby on the bed"
+    },
+    "vorstellen": {
+        "Translation": "to introduce, imagine",
+        "Example": "Der Manager stellt das neue Konzept vor",
+        "Example translation": "The manage is introducing the new concept"
+    },
+    "handeln": {
+        "Translation": "to deal, trade, be about",
+        "Example": "Der Roman handelt von einer modernen Familie",
+        "Example translation": "The novel is about a modern family"
+    },
+    "erreichen": {
+        "Translation": "to achieve, reach",
+        "Example": "Nach vier Stunden erreichten wir den Berggipfel",
+        "Example translation": "After four hours we reached the mountaintop"
+    },
+    "tragen": {
+        "Translation": "to carry, wear",
+        "Example": "Sie trägt im Sommer gern Kleider",
+        "Example translation": "She likes to wear dresses in summer."
+    },
+    "schaffen": {
+        "Translation": "to manage, create",
+        "Example": "Ich schaffe meine Arbeit nicht",
+        "Example translation": "I'm not managing to do my job"
+    },
+    "lesen": {
+        "Translation": "to read",
+        "Example": "Antina liest gern Game of Thrones Bücher",
+        "Example translation": "Antina likes to read Game of Thrones books"
+    },
+    "verlieren": {
+        "Translation": "to lose",
+        "Example": "Die Kirche verliert an Einfluss",
+        "Example translation": "The church is losing its influence"
+    },
+    "darstellen": {
+        "Translation": "to depict, portray",
+        "Example": "Das Bild stellt eine Winterlandschaft dar.",
+        "Example translation": "The image depicts a winter landscape"
+    },
+    "erkennen": {
+        "Translation": "to recognize, admit",
+        "Example": "Ich kann es nicht erkennen, ich sehe schlecht",
+        "Example translation": "I cannot quite see it, I have a poor eyesight"
+    },
+    "entwickeln": {
+        "Translation": "to develop",
+        "Example": "Schmetterlinge entwickeln sich aus Raupen",
+        "Example translation": "Butterflies develop from caterpillars"
+    },
+    "reden": {
+        "Translation": "to talk",
+        "Example": "Ich möchte jetzt nicht darüber reden",
+        "Example translation": "I don't want to talk about it now"
+    },
+    "aussehen": {
+        "Translation": "to appear, look",
+        "Example": "Sie sieht aus wie ihre Großmutter",
+        "Example translation": "She looks like her grandmother"
+    },
+    "erscheinen": {
+        "Translation": "to appear",
+        "Example": "Die ersten Sterne erscheinen am Himmel",
+        "Example translation": "The first stars are appearing in the sky"
+    },
+    "bilden": {
+        "Translation": "to form, educate",
+        "Example": "Den Höhepunkt des Festes bildet das abendliche Feuerwerk",
+        "Example translation": "The highlight of the festival is the evening fireworks show"
+    },
+    "anfangen": {
+        "Translation": "to begin",
+        "Example": "Das Theaterstück fängt gleich an",
+        "Example translation": "The play's about to start"
+    },
+    "erwarten": {
+        "Translation": "to expect",
+        "Example": "Unser Chef erwartet großes Engagement von seinen Mitarbeitern",
+        "Example translation": "Our boss expects great commitment from his employees"
+    },
+    "wohnen": {
+        "Translation": "to live",
+        "Example": "Mark wohnt schon dreizehn Jahre in Deutschland",
+        "Example translation": "Mark has been living in Germany already for 14 years"
+    },
+    "betreffen": {
+        "Translation": "to affect, concern",
+        "Example": "Das betrifft alle Abiturienten dieses Jahrgangs",
+        "Example translation": "That concerns all high school graduates of this year's class"
+    },
+    "warten": {
+        "Translation": "to wait",
+        "Example": "Die Kinder warten voller Ungeduld auf Weihnachten",
+        "Example translation": "The children are waiting impatiently for Christmas."
+    },
+    "vergehen": {
+        "Translation": "to pass (about time)",
+        "Example": "Wie die Zeit vergeht.",
+        "Example translation": "How the time flies."
+    },
+    "helfen": {
+        "Translation": "to help",
+        "Example": "Kinder sollten im Haushalt helfen",
+        "Example translation": "Children should help with the household"
+    },
+    "gewinnen": {
+        "Translation": "to win, gain",
+        "Example": "Sie möchte eine Medaille gewinnen",
+        "Example translation": "She wants to win a medal"
+    },
+    "schließen": {
+        "Translation": "to close",
+        "Example": "Schließen Sie jetzt bitte die Augen",
+        "Example translation": "Please close your eyes"
+    },
+    "fühlen": {
+        "Translation": "to feel",
+        "Example": "Sie fühlt sich schlecht",
+        "Example translation": "She is not feeling well"
+    },
+    "bieten": {
+        "Translation": "to offer",
+        "Example": "Nach dem Vortrag bietet sich die Gelegenheit zu einem Stadtrundgang",
+        "Example translation": "After the lecture you will have the opportunity to take a tour of the city."
+    },
+    "interessieren": {
+        "Translation": "to interest",
+        "Example": "Das fünfte Kapitel interessiert uns heute besonders",
+        "Example translation": "The fifth chapter is especially interesting for us today"
+    },
+    "interessieren sich": {
+        "Translation": "to be interested",
+        "Example": "Hans interessiert sich für Architektur",
+        "Example translation": "Hans is interested in Architecture"
+    },
+    "erinnern": {
+        "Translation": "to remind",
+        "Example": "Ich werde dich daran erinnern",
+        "Example translation": "I will remind you about it"
+    },
+    "erinnern sich": {
+        "Translation": "to remember",
+        "Example": "Ich kann mich nicht daran erinnern",
+        "Example translation": "I cannot remember it"
+    },
+    "ergeben": {
+        "Translation": "to result in",
+        "Example": "Vier plus vier ergibt acht",
+        "Example translation": "4 plus 4 equals 8"
+    },
+    "anbieten": {
+        "Translation": "to offer",
+        "Example": "Die Firma bietet einen rabatt von 10% an",
+        "Example translation": "The company is offering a 10% discount"
+    },
+    "studieren": {
+        "Translation": "to study",
+        "Example": "Nach ihrem Abitur will Melanie Psychologie studieren",
+        "Example translation": "After her graduation, Melanie wants to study psychology"
+    },
+    "verbinden": {
+        "Translation": "to connect, link",
+        "Example": "Verbinden Sie ihre Smartwatch mit dem Handy",
+        "Example translation": "Connect your smartwatch to your mobile phone"
+    },
+    "ansehen": {
+        "Translation": "to look at, watch",
+        "Example": "Ich sehe mir gleich die Nachrichten an",
+        "Example translation": "I'm about to watch the news."
+    },
+    "fehlen": {
+        "Translation": "to lack, be missing, be absent",
+        "Example": "Es fehlt die Unterschrift",
+        "Example translation": "The signature is missing"
+    },
+    "bedeuten": {
+        "Translation": "to mean",
+        "Example": "Was bedeutet das?",
+        "Example translation": "What does that mean?"
+    },
+    "vergleichen": {
+        "Translation": "to compare",
+        "Example": "Vergleich doch mal die Preise",
+        "Example translation": "Please compare the prices one more time"
+    },
+    "steigen": {
+        "Translation": "to climb, increase",
+        "Example": "Die Aktien steigen",
+        "Example translation": "The stocks are rising"
+    },
+    "verlassen": {
+        "Translation": "to leave",
+        "Example": "Wir verlassen das Haus um 8 Uhr",
+        "Example translation": "We will leave the house at 8"
+    },
+    "verlassen sich": {
+        "Translation": "To depend, rely on",
+        "Example": "Ich verlasse mich auf dich",
+        "Example translation": "I rely on you"
+    }
+}
